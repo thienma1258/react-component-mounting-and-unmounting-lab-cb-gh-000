@@ -88,4 +88,3 @@ class Pancake extends React.Component {
 }
 
 export default Pancake;
-
